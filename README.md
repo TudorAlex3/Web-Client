@@ -1,5 +1,6 @@
 # Web-Client
 
+
 ### ➢ Client
 <p align="justify">
 The client always receives input from the keyboard for commands (until the "exit" command is entered). We have verified that each command entered from the keyboard is valid, and based on the received command, we send the request specified in the requirement to the server and display the response sent by the server.
